@@ -1,0 +1,15 @@
+body{
+    color: red;
+}
+
+h1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    size: 50px;
+}
+
+p{
+    size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: bisque;
+}
